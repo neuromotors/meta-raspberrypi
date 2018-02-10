@@ -1,5 +1,9 @@
 # meta-raspberrypi
 
+FORK OF META_RASPBERRYPI
+
+The original README below:
+
 Yocto BSP layer for the Raspberry Pi boards - <http://www.raspberrypi.org/>.
 
 [![Build Status](https://yocto-ci.resin.io/job/meta-raspberrypi1/badge/icon)](https://yocto-ci.resin.io/job/meta-raspberrypi1)
